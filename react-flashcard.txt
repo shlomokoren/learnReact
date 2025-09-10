@@ -1,0 +1,11 @@
+create new app:
+npx create-vite@latest crypto-dash
+ select react , java script
+cd crypto-dash
+npm install
+code .
+#run terminal
+npm run dev
+
+
+ 
